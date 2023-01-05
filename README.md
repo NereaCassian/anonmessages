@@ -5,7 +5,7 @@ A pyhton discord slash command bot to send anon messages to users by their ID
  Clone this repository
  
  ```
- git clone
+ git clone https://github.com/NereaCassian/anonmessages.git
  ```
  
  Edit the .env.example, put your token and rename ir to .env

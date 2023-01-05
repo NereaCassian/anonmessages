@@ -25,6 +25,6 @@ A pyhton discord slash command bot to send anon messages to users by their ID
  
  # Usage
  
- Write the bot via primate message /enviar <the destiantion user ID> <the message you want to send him>
+ Write the bot via private message ''/enviar <the destiantion user ID> <the message you want to send him>''
   
  NOTE THAT THE BOT WONT BE ABLE TO WRITE MESSAGES TO PEOPLE OUTSIDE THE SERVER HE IS AND PEOPLE WHO HAVE SERVER PRIVATE MDS BLOCKED
